@@ -1,2 +1,1 @@
-# 2017-07-13
-混合开发app打包测试
+Hello Word ,I am a baby!
